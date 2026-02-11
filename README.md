@@ -25,19 +25,24 @@ It features a smart pattern creation engine that allows users to generate comple
 
 Setup takes only a few seconds:
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/vampiresquad/VortexWordGen.git
-
+```
 # Navigate into project folder
+```bash
 cd VortexWordGen
-
+```
 # Install dependencies (if required)
+```bash
 pip install -r requirements.txt
-
+```
 ## 🚀 Usage
 # (Run the main script using Python 3)
-
+```bash
+python word-genX.py
+```
 
 ## ⚠️ Disclaimer
 
@@ -47,5 +52,5 @@ Always ensure you have explicit permission before testing any system.
 
 ## 👨‍💻 Author
 
-Muhammad Shourov
+**Muhammad Shourov**
 Cyber Security Researcher | Python Developer
